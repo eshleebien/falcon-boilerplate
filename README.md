@@ -1,4 +1,4 @@
-First Stage of Snji (aka.Fetcher)
+Falcon boilerplate
 ====
 *WIP*
 
